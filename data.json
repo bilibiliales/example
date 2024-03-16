@@ -1,0 +1,13 @@
+{
+  "notice": "这里可以写一些脚本的公告",
+  "keys": [
+    {
+      "activate_key": "770b50e2b5dafece83a3d50bd4443ec1ffd487b181c4af932f25c6ab51e14d23",
+      "validity": "1710579249546",
+    }
+    {
+      "activate_key": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "validity": "1710579300265",
+    }
+  ]
+}
