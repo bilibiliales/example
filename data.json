@@ -22,5 +22,5 @@
     "size": "9.16kb",
     "checksum1": "4b9af34b2efda8ed3723c9f49a2431d1",
     "checksum2": "c61c8ee8ee5d5bad217869b9defd040a",
-    "note": "发布日期：2024年6月17日。本次更新修复了签名验证失败的问题，推荐使用自动更新。"
+    "note": "修复了部分已知问题。"
 }
